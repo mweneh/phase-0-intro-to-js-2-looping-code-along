@@ -8,7 +8,7 @@ function writeCards(namesArray,eventNai){
 }
 return eventcards;
 }
-function countdown(myInt){
+function countDown(myInt){
     let startingNumber=myInt
 
         while(startingNumber>0); {
